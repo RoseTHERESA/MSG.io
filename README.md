@@ -1,2 +1,2 @@
 # MSG.io
-Mobile Study Group
+Mobile Study Group (not monosodium glutamate)
